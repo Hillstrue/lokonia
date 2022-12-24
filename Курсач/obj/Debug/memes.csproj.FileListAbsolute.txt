@@ -1,0 +1,126 @@
+C:\Users\enotik\source\repos\memes\bin\Debug\memes.exe.config
+C:\Users\enotik\source\repos\memes\bin\Debug\memes.exe
+C:\Users\enotik\source\repos\memes\bin\Debug\memes.pdb
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.csproj.AssemblyReference.cache
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.csproj.SuggestedBindingRedirects.cache
+C:\Users\enotik\source\repos\memes\obj\Debug\MainWindow.g.cs
+C:\Users\enotik\source\repos\memes\obj\Debug\App.g.cs
+C:\Users\enotik\source\repos\memes\obj\Debug\memes_MarkupCompile.cache
+C:\Users\enotik\source\repos\memes\obj\Debug\memes_MarkupCompile.lref
+C:\Users\enotik\source\repos\memes\obj\Debug\MainWindow.baml
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.g.resources
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.Properties.Resources.resources
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.csproj.GenerateResource.cache
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.csproj.CoreCompileInputs.cache
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.exe
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.pdb
+C:\Users\enotik\source\repos\memes\obj\Debug\AddWindowDialog.g.cs
+C:\Users\enotik\source\repos\memes\obj\Debug\AddWindowDialog.baml
+C:\Users\enotik\source\repos\memes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\enotik\source\repos\memes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\enotik\source\repos\memes\obj\Debug\memes.csproj.CopyComplete
+C:\Users\under\Downloads\memes\bin\Debug\memes.exe.config
+C:\Users\under\Downloads\memes\bin\Debug\memes.exe
+C:\Users\under\Downloads\memes\bin\Debug\memes.pdb
+C:\Users\under\Downloads\memes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\under\Downloads\memes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\under\Downloads\memes\obj\Debug\memes.csproj.AssemblyReference.cache
+C:\Users\under\Downloads\memes\obj\Debug\memes.csproj.SuggestedBindingRedirects.cache
+C:\Users\under\Downloads\memes\obj\Debug\MainWindow.g.cs
+C:\Users\under\Downloads\memes\obj\Debug\AddWindowDialog.g.cs
+C:\Users\under\Downloads\memes\obj\Debug\App.g.cs
+C:\Users\under\Downloads\memes\obj\Debug\memes_MarkupCompile.cache
+C:\Users\under\Downloads\memes\obj\Debug\memes_MarkupCompile.lref
+C:\Users\under\Downloads\memes\obj\Debug\MainWindow.baml
+C:\Users\under\Downloads\memes\obj\Debug\AddWindowDialog.baml
+C:\Users\under\Downloads\memes\obj\Debug\memes.g.resources
+C:\Users\under\Downloads\memes\obj\Debug\memes.Properties.Resources.resources
+C:\Users\under\Downloads\memes\obj\Debug\memes.csproj.GenerateResource.cache
+C:\Users\under\Downloads\memes\obj\Debug\memes.csproj.CoreCompileInputs.cache
+C:\Users\under\Downloads\memes\obj\Debug\memes.csproj.CopyComplete
+C:\Users\under\Downloads\memes\obj\Debug\memes.exe
+C:\Users\under\Downloads\memes\obj\Debug\memes.pdb
+C:\Users\under\Downloads\memes_fixed\memes\bin\Debug\memes.exe.config
+C:\Users\under\Downloads\memes_fixed\memes\bin\Debug\memes.exe
+C:\Users\under\Downloads\memes_fixed\memes\bin\Debug\memes.pdb
+C:\Users\under\Downloads\memes_fixed\memes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\under\Downloads\memes_fixed\memes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.csproj.AssemblyReference.cache
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.csproj.SuggestedBindingRedirects.cache
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\MainWindow.g.cs
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\AddWindowDialog.g.cs
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\App.g.cs
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes_MarkupCompile.cache
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes_MarkupCompile.lref
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\MainWindow.baml
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\AddWindowDialog.baml
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.g.resources
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.Properties.Resources.resources
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.csproj.GenerateResource.cache
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.csproj.CoreCompileInputs.cache
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.csproj.CopyComplete
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.exe
+C:\Users\under\Downloads\memes_fixed\memes\obj\Debug\memes.pdb
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\bin\Debug\memes.exe.config
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\bin\Debug\memes.exe
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\bin\Debug\memes.pdb
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.csproj.AssemblyReference.cache
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.csproj.SuggestedBindingRedirects.cache
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\MainWindow.g.cs
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\AddWindowDialog.g.cs
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\App.g.cs
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes_MarkupCompile.cache
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes_MarkupCompile.lref
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\MainWindow.baml
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\AddWindowDialog.baml
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.g.resources
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.Properties.Resources.resources
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.csproj.GenerateResource.cache
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.csproj.CoreCompileInputs.cache
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.csproj.CopyComplete
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.exe
+C:\Users\enotik\Downloads\memes_fixed+tags\memes\obj\Debug\memes.pdb
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\bin\Debug\memes.exe.config
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\bin\Debug\memes.exe
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\bin\Debug\memes.pdb
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\bin\Debug\Newtonsoft.Json.dll
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\bin\Debug\Newtonsoft.Json.xml
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.csproj.AssemblyReference.cache
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\MainWindow.g.cs
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\AddWindowDialog.g.cs
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\App.g.cs
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes_MarkupCompile.cache
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes_MarkupCompile.lref
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\MainWindow.baml
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\AddWindowDialog.baml
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.g.resources
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.Properties.Resources.resources
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.csproj.GenerateResource.cache
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.csproj.CoreCompileInputs.cache
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.csproj.CopyComplete
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.exe
+C:\Users\home\OneDrive\Рабочий стол\coursework\memes\obj\Debug\memes.pdb
+C:\Users\home\OneDrive\Рабочий стол\Курсач\bin\Debug\memes.exe.config
+C:\Users\home\OneDrive\Рабочий стол\Курсач\bin\Debug\memes.exe
+C:\Users\home\OneDrive\Рабочий стол\Курсач\bin\Debug\memes.pdb
+C:\Users\home\OneDrive\Рабочий стол\Курсач\bin\Debug\Newtonsoft.Json.dll
+C:\Users\home\OneDrive\Рабочий стол\Курсач\bin\Debug\Newtonsoft.Json.xml
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.csproj.AssemblyReference.cache
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.csproj.SuggestedBindingRedirects.cache
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\MainWindow.g.cs
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\AddWindowDialog.g.cs
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\App.g.cs
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes_MarkupCompile.cache
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes_MarkupCompile.lref
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\MainWindow.baml
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\AddWindowDialog.baml
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.g.resources
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.Properties.Resources.resources
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.csproj.GenerateResource.cache
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.csproj.CoreCompileInputs.cache
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.csproj.CopyComplete
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.exe
+C:\Users\home\OneDrive\Рабочий стол\Курсач\obj\Debug\memes.pdb
